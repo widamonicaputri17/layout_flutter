@@ -42,9 +42,9 @@ class MyApp extends StatelessWidget {
           const Icon(
             // Ikon bintang
             Icons.star,
-            color: Colors.red, // Set warna ikon bintang menjadi merah
+            color: Colors.yellow,
           ),
-          const Text('41'), // Teks "41"
+          const Text('75'),
         ],
       ),
     );
@@ -60,17 +60,19 @@ class MyApp extends StatelessWidget {
       ],
     );
 
-    // Bagian textSection: Menambahkan teks dengan padding
     Widget textSection = Container(
       padding: const EdgeInsets.all(32), // Padding di sepanjang setiap tepi
       child: const Text(
-        'Carilah teks di internet yang sesuai '
-        'dengan foto atau tempat wisata yang ingin '
-        'Anda tampilkan. '
-        'Tambahkan nama dan NIM Anda sebagai '
-        'identitas hasil pekerjaan Anda. '
-        'Selamat mengerjakan 🙂.',
-        softWrap: true, // Agar baris teks membungkus pada batas kata
+        'Batu Malang dikenal sebagai destinasi wisata pegunungan yang menakjubkan. '
+        'Menawarkan panorama alam yang memukau dan udara segar yang menyejukkan. '
+        'Terletak di ketinggian, daerah ini dikelilingi oleh pegunungan hijau yang indah '
+        'seperti Gunung Panderman dan Gunung Arjuna, yang menyediakan berbagai jalur pendakian untuk para pecinta alam. '
+        'Selain trekking, pengunjung dapat menikmati keindahan pemandangan dari berbagai spot fotografi '
+        'serta beragam aktivitas luar ruangan seperti camping dan outbond. '
+        'Wisatawan juga dapat merasakan suasana sejuk sambil menikmati kebun apel yang terkenal di kawasan ini. '
+        'Dengan berbagai fasilitas dan akomodasi yang tersedia, '
+        'Batu Malang menjadi pilihan ideal bagi mereka yang ingin melarikan diri dari hiruk-pikuk kota dan menikmati keindahan alam.',
+        softWrap: true,
       ),
     );
 
