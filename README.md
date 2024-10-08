@@ -47,6 +47,10 @@ HASIL :
 HASIL SETELAH DIUBAH LISTVIEW :
 ![Screenshot 2024-10-01 214422](https://github.com/user-attachments/assets/aa4e3ef2-c98f-48d2-ba1e-cfa326197d1e)
 
+HASIL AKHIR :
+![Screenshot 2024-10-08 214800](https://github.com/user-attachments/assets/108af0b2-58cd-4bd6-b863-cb471e156b6a)
+
+
 
 
 
